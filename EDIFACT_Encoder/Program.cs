@@ -14,7 +14,7 @@ namespace EdifactReader
             {
                 Console.WriteLine($"Datei '{filePath}' nicht gefunden.");
                 Console.WriteLine("Drücke Enter zum Beenden...");
-                Console.ReadLine(); // statt ReadKey
+                Console.ReadLine();
                 return;
             }
 
@@ -69,7 +69,7 @@ namespace EdifactReader
             }
 
             Console.WriteLine("Drücke Enter, um das Programm zu beenden...");
-            Console.ReadLine(); // ersetzt Console.ReadKey()
+            Console.ReadLine();
         }
     }
 }
