@@ -1,0 +1,14 @@
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.AssemblyInfoInputs.cache
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.AssemblyInfo.cs
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.csproj.CoreCompileInputs.cache
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\bin\Debug\net9.0\EDIFACT_Encoder.exe
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\bin\Debug\net9.0\EDIFACT_Encoder.deps.json
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\bin\Debug\net9.0\EDIFACT_Encoder.runtimeconfig.json
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\bin\Debug\net9.0\EDIFACT_Encoder.dll
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\bin\Debug\net9.0\EDIFACT_Encoder.pdb
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.dll
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\refint\EDIFACT_Encoder.dll
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.pdb
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.genruntimeconfig.cache
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\ref\EDIFACT_Encoder.dll

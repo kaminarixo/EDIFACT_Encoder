@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EDIFACT_Encoder/1.0.0": {
+        "runtime": {
+          "EDIFACT_Encoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDIFACT_Encoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
