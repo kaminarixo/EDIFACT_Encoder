@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj": {}
+    "c:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj": {
+    "c:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj",
+        "projectUniqueName": "c:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj",
         "projectName": "EDIFACT_Encoder",
-        "projectPath": "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj",
+        "projectPath": "c:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder.csproj",
         "packagesPath": "C:\\Users\\thomas.scharf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\obj\\",
+        "outputPath": "c:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thomas.scharf\\AppData\\Roaming\\NuGet\\NuGet.Config"

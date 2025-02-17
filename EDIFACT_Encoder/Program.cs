@@ -8,7 +8,7 @@ namespace EdifactReader
         static void Main(string[] args)
         {
             // Pfad zur EDIFACT-Datei (anpassen, falls nötig)
-            string filePath = "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\text2.txt";
+            string filePath = "C:\\Users\\thomas.scharf\\EDIFACT_Encoder\\EDIFACT_Encoder\\EDIFACT_Encoder\\text.txt";
             
             if (!File.Exists(filePath))
             {
@@ -37,7 +37,31 @@ namespace EdifactReader
                     string trimmedSegment = segment.Trim();
                     if (string.IsNullOrEmpty(trimmedSegment))
                         continue;
+    
+                    if (trimmedSegment.StartsWith("UNA",StringComparison.OrdinalIgnoreCase) && trimmedSegment.Length >= 7)
+                    {
+                        // UNA-Segment: Extrahiere die Trennzeichen.
+                        char componentDataElementSeparator = trimmedSegment[3];
+                        char dataElementSeparator = trimmedSegment[4];
+                        char decimalNotation = trimmedSegment[5];
+                        char releaseIndicator = trimmedSegment[6];
 
+                        Console.WriteLine($"UNA-Segment: {trimmedSegment}");
+                        Console.WriteLine($"Trennzeichen:");
+                        Console.WriteLine($"  Komponententrennzeichen: {componentDataElementSeparator}");
+                        Console.WriteLine($"  Datenelementtrennzeichen: {dataElementSeparator}");
+                        Console.WriteLine($"  Dezimaltrennzeichen: {decimalNotation}");
+                        Console.WriteLine($"  Escapezeichen: {releaseIndicator}");
+                        Console.WriteLine($"  Segmentabschlusszeichen: {segmentTerminator}");
+                        Console.WriteLine(new string('-', 40));
+                        continue;
+                    }
+                    else if(trimmedSegment.StartsWith("UNA",StringComparison.OrdinalIgnoreCase))
+                    {
+                        Console.WriteLine("UNA-Segment ist fehlerhaft.");
+                        Console.WriteLine(new string('-', 40));
+                        continue;
+                    }
                     // Zerlege das Segment in Datenelemente.
                     string[] elements = trimmedSegment.Split('+');
 

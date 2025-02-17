@@ -12,3 +12,4 @@ c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug
 c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.pdb
 c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.genruntimeconfig.cache
 c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\ref\EDIFACT_Encoder.dll
+c:\Users\thomas.scharf\EDIFACT_Encoder\EDIFACT_Encoder\EDIFACT_Encoder\obj\Debug\net9.0\EDIFACT_Encoder.sourcelink.json
